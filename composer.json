@@ -1,0 +1,7 @@
+{
+    "require": {
+        "lasserafn/php-initial-avatar-generator": "^4.2",
+        "nesbot/carbon": "^2.65",
+        "yohang88/letter-avatar": "^2.2"
+    }
+}
